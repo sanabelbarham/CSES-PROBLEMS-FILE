@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: two_Knights, Configuration: Debug x64 ------
+1>two_Knights.cpp
+1>two_Knights.vcxproj -> C:\CSES-PROBLEMS-FILE\two_Knights\x64\Debug\two_Knights.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:03.390 ==========
